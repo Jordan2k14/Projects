@@ -1,11 +1,5 @@
-// CA269 ASSIGNMENT
-// Jordan Ukawoko - 20353751
-// Luke Whelan - 20463814
-// Cian Sullivan - 20412726
-// Mark Bethal - 19451582
 
-
-
+// This is a group project by Jordan Ukawoko, Cian Sullivan, Luke Whelan and Mark Bethal
 
 import java.util.*;
 
